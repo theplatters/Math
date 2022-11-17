@@ -1,0 +1,3 @@
+/home/franz/Schreibtisch/Programming/CompAlg/cmake-build-debug/CMakeFiles/CompAlg.dir
+/home/franz/Schreibtisch/Programming/CompAlg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/franz/Schreibtisch/Programming/CompAlg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
